@@ -1,0 +1,22 @@
+# AWS / secrets
+*.pem
+*.key
+.env
+.env.*
+aws-credentials.txt
+credentials
+config.json
+
+# Do not upload deployment zip files
+*.zip
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
